@@ -3,6 +3,8 @@
 
 # DualImagePNG-for-X
 X（旧Twitter）で白背景と黒背景で異なる表示のトリック画像を作るスクリプト ※ダークモード不可
+<img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/25c0d54f-930c-4c77-9543-0968725fe298" /><img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/cecc7fed-e70d-4751-ae9b-5ad194e3fd24" /><br>
+<img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/a58320c2-284b-414b-a858-ce7e13d89e3a" /><img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/3cae418f-6ebb-4dd6-b856-c47d1336b448" />
 
 ## How it works
 このスクリプトは、2枚の入力画像（白背景用と黒背景用）をもとに、PNGのトリック画像を生成します。

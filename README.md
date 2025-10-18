@@ -60,6 +60,10 @@ python main.py -w=assets/01.jpg -b=assets/02.jpg -o=assets/output_color.png
 ```bash
 python main.py -w=assets/01.jpg -b=assets/02.jpg -ig -o=assets/output_grayscale.png
 ```
+# Note
+サンプル画像は[ぱくたそ](https://www.pakutaso.com/)様の以下画像を使用しています。
+* [まったく盛り上がらない無反応パーティーをご覧ください](https://www.pakutaso.com/20240233033post-50462.html)
+* [急な展開で思わず反応してしまう男女](https://www.pakutaso.com/20240245033post-50463.html)
 
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
